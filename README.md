@@ -34,6 +34,5 @@
 
 
 ### 管理后台页面截图（部分）
-![登录页面](https://github.com/sailorlxj/AliMallApp/blob/master/login.png)
 ![首页](https://github.com/sailorlxj/AliMallApp/blob/master/home.png)
 ![列表页](https://github.com/sailorlxj/AliMallApp/blob/master/list1.png)
