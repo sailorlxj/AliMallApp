@@ -3,6 +3,9 @@
 支付宝小程序完美上线；
 这是一款已经正式运营的支付宝商城小程序，也是全网第一款商用级并开源出来的支付宝小程序项目。欢迎关注啊！
 
+支付宝小程序的优势：
+
+
 已上线版本为简洁版，可无限定制你能想要的功能哦；
 
 ### 主要功能介绍
@@ -20,4 +23,7 @@
 <img src="https://github.com/sailorlxj/AliMallApp/blob/master/07-%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85.jpeg" width="200" height="350" alt="支付宝小程序-订单详情"/>
 
 
-### 管理后台页面截图
+### 管理后台页面截图（部分）
+![登录页面](https://github.com/sailorlxj/AliMallApp/blob/master/login.png)
+![首页](https://github.com/sailorlxj/AliMallApp/blob/master/home.png)
+![列表页](https://github.com/sailorlxj/AliMallApp/blob/master/list1.png)
