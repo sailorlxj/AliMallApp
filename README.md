@@ -6,7 +6,7 @@
 ### 主要功能介绍
 
 ### 小程序主要页面截图
-<img src="https://github.com/sailorlxj/AliMallApp/blob/master/01-%E9%A6%96%E9%A1%B5.jpeg" width="120" height="213" alt="支付宝小程序-首页"/><br/>
+<img src="https://github.com/sailorlxj/AliMallApp/blob/master/01-%E9%A6%96%E9%A1%B5.jpeg" width="200" height="350" alt="支付宝小程序-首页"/><br/>
 
 
 ### 管理后台页面截图
