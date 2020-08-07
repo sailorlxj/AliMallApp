@@ -6,6 +6,6 @@
 ### 主要功能介绍
 
 ### 小程序主要页面截图
-
+![image](https://github.com/sailorlxj/AliMallApp/blob/master/01-%E9%A6%96%E9%A1%B5.jpeg) <br>
 
 ### 管理后台页面截图
