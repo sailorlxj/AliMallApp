@@ -1,5 +1,6 @@
 # AliMallApp-支付宝小程序
 
+### 简介
 支付宝小程序完美上线；
 这是一款已经正式运营的支付宝商城小程序，也是全网第一款商用级并开源出来的支付宝小程序项目。欢迎关注啊！
 <B>QQ讨论群:283520056</B>
@@ -17,6 +18,10 @@
 整个项目包括两部分：
 * 前端支付宝小程序
 * 运营后台
+
+### 项目部署流程
+[小程序部署手册](https://github.com/sailorlxj/AliMallApp/blob/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E9%83%A8%E7%BD%B2%E6%B5%81%E7%A8%8B.pdf)  
+[管理后台使用手册](https://github.com/sailorlxj/AliMallApp/blob/master/%E7%AE%A1%E7%90%86%E5%90%8E%E5%8F%B0%E4%BD%BF%E7%94%A8.pdf)  
 
 ### 小程序主要页面截图
 <img src="https://github.com/sailorlxj/AliMallApp/blob/master/01-%E9%A6%96%E9%A1%B5.jpeg" width="200" height="350" alt="支付宝小程序-首页"/>
